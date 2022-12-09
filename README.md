@@ -10,7 +10,8 @@ The finished analysis results can be viewed on Tableu.
 
 - Tableau Public
 - Python(Jupyter notebook and Pandas libarary)
-- NyCitiBike Aug 2019 Data [CSV File]()
+- NyCitiBike Aug 2019 Data 
+- [CitiBike System Data](https://ride.citibikenyc.com/system-data)
 
 ## Detailed Analysis
 
